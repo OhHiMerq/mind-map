@@ -1,6 +1,8 @@
 ---
 title: Welcome to Quartz
 ---
+Hi everyone, merq here! 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[content/Readme|Readme]]
+
+
