@@ -6,7 +6,7 @@ date: 2024-03-22
 ---
 There's a lot of things to learn!
 
-Confusion is learning's first step. It should inspire not discourage.
+Entertain confusion to learn. It should inspire not discourage.
 
 A lot more to include in this site.
 
